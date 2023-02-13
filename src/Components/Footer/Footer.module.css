@@ -1,0 +1,19 @@
+.wrapper{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(216, 53%, 9%);
+}
+.list{
+    list-style: none;
+    display: flex;
+    gap: 26px;
+
+}
+.list{
+    color: #fff;
+    text-decoration: none;
+}

@@ -1,0 +1,30 @@
+.container {
+    border-radius: 5px;
+    background-color: hsl(219, 30%, 18%);
+    width: 55%;
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px;
+}
+.inp{
+    width: 65%;
+    max-width: 1440px;
+    text-align: left;
+    border-radius: 20px;
+    height: 40px;
+}
+.btn{
+    background-color: aqua;
+    width: 220px;
+    height: 40px;
+    border-radius: 20px;
+    font-size:  20px;
+    margin-left: 20px;
+}
+.desc{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 10px;
+    color: red;
+}
